@@ -4,7 +4,7 @@ library(readr)
 library(arules)
 library(arulesViz)
 
-path<-"C:/Users/Johnnel/Desktop/TIP folder/2nd year 1st sem/business intellegence/W8/archive/market.csv"
+path<-"archive/market.csv"
 
 market <- read.csv(path, sep = ";") 
 
